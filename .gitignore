@@ -1,0 +1,17 @@
+# 参考项目只在本地 clone 学习，不上传；仅保留说明文件
+References_Project/*
+!References_Project/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.bin
+memray-*.html
+
+# IDE / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
